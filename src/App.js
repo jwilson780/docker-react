@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Get Stankie
+          Feature Branch Changes
         </a>
       </header>
     </div>
